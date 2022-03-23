@@ -1,2 +1,2 @@
-# reconhecimento_padroes
+# Reconhecimento de Padrões
 Disciplina Reconhecimento de Padrões
